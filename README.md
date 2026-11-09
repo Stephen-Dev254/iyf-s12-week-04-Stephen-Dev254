@@ -57,4 +57,4 @@ A comprehensive implementation of JavaScript core fundamentals, data structures,
 
 
 ## Live Demo 
-[View Live Demo]
+[View Live Demo]  https://stephen-dev254.github.io/iyf-s12-week-04-Stephen-Dev254/
